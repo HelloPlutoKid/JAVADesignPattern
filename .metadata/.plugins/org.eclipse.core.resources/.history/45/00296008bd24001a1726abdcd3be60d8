@@ -1,0 +1,11 @@
+package computerName;
+
+import Inter.IComputerFactory;
+
+/**
+ * ComputerA
+ */
+public class ComputerA implements IComputerFactory{
+
+    
+}

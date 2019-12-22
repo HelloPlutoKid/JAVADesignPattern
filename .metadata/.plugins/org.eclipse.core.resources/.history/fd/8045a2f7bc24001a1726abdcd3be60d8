@@ -1,0 +1,12 @@
+package Inter;
+
+/**
+ * IPlayer
+ */
+public interface IComputerFactory {
+
+        public void cpu();
+        public void gpu();
+        public void memory();
+
+}
