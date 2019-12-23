@@ -282,3 +282,8 @@ Caused by: java.lang.NullPointerException
 	at java.lang.reflect.Method.invoke(Unknown Source)
 	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
 	... 64 more
+
+!ENTRY org.eclipse.core.resources 2 2 2019-12-24 01:01:05.456
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2019-12-24 01:01:05.456
+!MESSAGE The project description file (.project) for 'AbstractFactoryPattern' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
