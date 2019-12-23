@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpu.MidCpu"/>
+<fullyQualifiedTypeName name="Inter.ICpu"/>
+<fullyQualifiedTypeName name="Inter.IGpu"/>
+<fullyQualifiedTypeName name="Inter.IMemory"/>
+</qualifiedTypeNameHistroy>
